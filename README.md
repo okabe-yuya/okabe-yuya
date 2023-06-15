@@ -1,5 +1,5 @@
 [![Twitter: okabe.yuya](https://img.shields.io/twitter/follow/toboggannn?style=social)](https://twitter.com/toboggannn)
-[![Blog: okabe.yuya](https://img.shields.io/badge/%E3%81%AF%E3%81%A6%E3%81%AA-%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B%E3%83%86%E3%83%83%E3%82%AF-FF5722.svg?logo=blogger&style=plastic)]([https://twitter.com/toboggannn](https://www.okb-shelf.work/))
+[![blog: okabe.yuya](https://img.shields.io/badge/%E3%81%AF%E3%81%A6%E3%81%AA-%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B%E3%83%86%E3%83%83%E3%82%AF-FF5722.svg?logo=blogger&style=plastic)](https://www.okb-shelf.work)
 
 ## ℹ️ Information
 - Name: Yuya Okabe
