@@ -7,10 +7,10 @@
 - Location: Japan
 - Language: Japanese(Native), English(Conversational)
 - Job: Web Engineer(main: Backend)
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okabe-yuya&theme=tokyonight)
 
 ## 🌮 Status
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okabe-yuya&theme=tokyonight)
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=okabe-yuya&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/okabe-yuya/)
